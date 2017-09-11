@@ -1,0 +1,6 @@
+framework module PLUUIKit {
+  umbrella header "PLUUIKit.h"
+
+  export *
+  module * { export * }
+}
