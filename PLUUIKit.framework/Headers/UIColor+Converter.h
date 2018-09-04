@@ -18,6 +18,6 @@
  *  @return UIColor
  */
 + (UIColor *)colorFromHexRGB:(NSString *)hexColorString;
-+ (UIColor *) colorFromHexRGB:(NSString *) inColorString alpha:(CGFloat) alpha;
++ (UIColor *)colorFromHexRGB:(NSString *) inColorString alpha:(CGFloat) alpha;
 
 @end
