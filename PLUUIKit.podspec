@@ -16,7 +16,7 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "PLUUIKit"
-  s.version      = "0.0.8"
+  s.version      = "0.1.0"
   s.summary      = "PLUUIKit"
 
   # This description is used to generate tags and improve search results.
@@ -109,7 +109,7 @@ Pod::Spec.new do |s|
   #
 
   # s.resource  = "icon.png"
-  # s.resources = "Resources/*.png"
+   s.resources = "PLUUIKit.framework/*.bundle"
 
   # s.preserve_paths = "FilesToSave", "MoreFilesToSave"
 
