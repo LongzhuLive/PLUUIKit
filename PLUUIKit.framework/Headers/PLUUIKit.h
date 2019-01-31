@@ -41,7 +41,6 @@
 #import  "JCRBlurView.h"
 #import  "PLUBlurView.h"
 #import  "PLUAirPlayView.h"
-#import  "THLabel.h"
 #import  "UIImagePickerController+PLUJudgeAuthority.h"
 #import  "UIView+Pierced.h"
 #import  "UIImage+operation.h"
